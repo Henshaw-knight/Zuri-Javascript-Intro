@@ -1,0 +1,1 @@
+This repo features a javascript code that prints name, height and country on the screen
